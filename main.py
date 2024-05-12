@@ -1,4 +1,8 @@
 
 
 def main():
-    print("hello")
+    print("Stock App")
+
+
+if __name__ == "__main__":
+    main()
