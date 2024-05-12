@@ -1,0 +1,26 @@
+1) Set up the API server
+1a - Return a hello world
+
+2) set up pg db
+2a) connect the db to the  helloworld
+
+3) create tables to store  the
+stock
+price purchased
+amount
+user
+CRUD Table for the DB ( Create read update and delete )
+
+4) Set up api ( Pulling market date)
+
+5) End point  for all the stocks
+profit
+loss
+
+Later
+user set up  To be done
+
+optimise depending on performance.
+- using  framework
+
+
